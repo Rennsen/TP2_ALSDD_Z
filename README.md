@@ -1,4 +1,4 @@
-# Practical Work in Algorithmics and Dynamic Data Structures
+# Second Practical Work in Algorithmics and Dynamic Data Structures
 
 ## Overview
 
